@@ -1,10 +1,4 @@
-/*
-Assignment number  : 5.2
-File Name          : ​BasicEditor.java
-Name               : Stav Yakobi
-Student ID         : 206040149
-Email              : Stav.Yakobi@post.idc.ac.il
-*/
+
 
 /*
 The program takes two command-line arguments, the name of a ppm picture,
