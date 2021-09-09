@@ -1,10 +1,4 @@
-/*
-Assignment number  : 5.3
-File Name          : ​BlurringEditor.java
-Name               : Stav Yakobi
-Student ID         : 206040149
-Email              : Stav.Yakobi@post.idc.ac.il
-*/
+
 
 
 /*
