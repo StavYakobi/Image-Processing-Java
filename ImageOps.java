@@ -1,10 +1,3 @@
-/*
-Assignment number  : 5.1
-File Name          : ​ImageOps.java
-Name               : Stav Yakobi
-Student ID         : 206040149
-Email              : Stav.Yakobi@post.idc.ac.il
-*/
 
 
 /**
